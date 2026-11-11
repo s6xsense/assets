@@ -1,0 +1,2361 @@
+{
+  "files": [
+    {
+      "path": "skybox/Aurora/bk.png",
+      "bytes": 106726,
+      "sha256": "1200f477246357f8c7ef6a90e6853d1c5d0038a2cd3e71fd1a0ac986935aa61c"
+    },
+    {
+      "path": "skybox/Aurora/dn.png",
+      "bytes": 31280,
+      "sha256": "dcb8fb3e36647659ef36beebd952d2bd7946438c367722ba0ab2bd2d51d4cc7d"
+    },
+    {
+      "path": "skybox/Aurora/ft.png",
+      "bytes": 102628,
+      "sha256": "dafea589917699c47cd889d1442a234a6227fe9765ec5557bf7b32db80a7178a"
+    },
+    {
+      "path": "skybox/Aurora/lf.png",
+      "bytes": 106967,
+      "sha256": "ab68186af8a2e4f69cd2ed1365a8e582fbc7815e978b75b91c7b572e289d47c2"
+    },
+    {
+      "path": "skybox/Aurora/rt.png",
+      "bytes": 126166,
+      "sha256": "86d290b4a122d19151fccb550efc51cb7e40655ea794c0eb142aaefa5a47171b"
+    },
+    {
+      "path": "skybox/Aurora/up.png",
+      "bytes": 132609,
+      "sha256": "9372a3e365fd7ffb5263b1b3629e6f12d382b2b726d6c29ff4f414cc8f862d68"
+    },
+    {
+      "path": "skybox/Beautiful Sky/bk.png",
+      "bytes": 232200,
+      "sha256": "66ffdadd032dd17ff842bf5860ed01f5569310920fe13a5443d5b9c9207c311b"
+    },
+    {
+      "path": "skybox/Beautiful Sky/dn.png",
+      "bytes": 1880,
+      "sha256": "831e181eea6ff1904a52a7cf9da58f7cf44e15daedc6a841482ea5d30a3973fd"
+    },
+    {
+      "path": "skybox/Beautiful Sky/ft.png",
+      "bytes": 231441,
+      "sha256": "ba1470acc513fb61d22d33930c79c670027c8219dd27d7c39f7d40213a308c83"
+    },
+    {
+      "path": "skybox/Beautiful Sky/lf.png",
+      "bytes": 210271,
+      "sha256": "7e2ff83815052bc29f0d4c3667dd5c3a8167b420e6927a73c6336b1b41dcd32c"
+    },
+    {
+      "path": "skybox/Beautiful Sky/rt.png",
+      "bytes": 206255,
+      "sha256": "3cc71c7cb84b701e9e8cc126f108bf17bcc33a938d243fc5ad15bfc8b2db91fe"
+    },
+    {
+      "path": "skybox/Beautiful Sky/up.png",
+      "bytes": 62741,
+      "sha256": "856eb87e19b1e4917cefa7156494cf7c84eb4b52484ff387866d712aa9306488"
+    },
+    {
+      "path": "skybox/Blackhole/bk.png",
+      "bytes": 351645,
+      "sha256": "0cdfab2664bc3bf6b21a3d8d0c048992c94f1a302078d1a392f6619c0353a5a9"
+    },
+    {
+      "path": "skybox/Blackhole/dn.png",
+      "bytes": 314864,
+      "sha256": "2d8a1639989050fffbd09ee89a9435996f9d5e40f770046411cacf408644db74"
+    },
+    {
+      "path": "skybox/Blackhole/ft.png",
+      "bytes": 338613,
+      "sha256": "18bb1ae4da28a94bb17691e94186b7a9e57b3a9db8a33f5ee7f6232ba559c663"
+    },
+    {
+      "path": "skybox/Blackhole/lf.png",
+      "bytes": 390368,
+      "sha256": "cb9b26bf4a6e8ca8cb0d0cb6a555b460fe8fadc5b7c7b04166edd3fb389578fa"
+    },
+    {
+      "path": "skybox/Blackhole/rt.png",
+      "bytes": 322406,
+      "sha256": "9631381844817ab8a4077488cadc19340ef3b6262b60c4434b92fbd5d9094455"
+    },
+    {
+      "path": "skybox/Blackhole/up.png",
+      "bytes": 363602,
+      "sha256": "686d92aa62aaf07b2e4cef171ecccd79df45c2c4219c8734e016cae039b42f61"
+    },
+    {
+      "path": "skybox/Blue Sky/bk.png",
+      "bytes": 159311,
+      "sha256": "211ed8e0b2f9d37a47d81ae26089cf5e82e3ecd89b46c3784bc237c46463399e"
+    },
+    {
+      "path": "skybox/Blue Sky/dn.png",
+      "bytes": 123026,
+      "sha256": "3a00335c5b4665cc46bbab9754a10dd2aa0e280dc516a6060ec228cc0257e230"
+    },
+    {
+      "path": "skybox/Blue Sky/ft.png",
+      "bytes": 177148,
+      "sha256": "9404836102b3c74d055a496ed3ddc13d06fcbe5241dd0f7a43876b2dc691a6e9"
+    },
+    {
+      "path": "skybox/Blue Sky/lf.png",
+      "bytes": 195445,
+      "sha256": "c1b53bfce43b1d77b18bc48ddcbe806d95314bd6cfa0fd01163a3dcd684c1c94"
+    },
+    {
+      "path": "skybox/Blue Sky/rt.png",
+      "bytes": 151721,
+      "sha256": "e288fc9ed5a08773b77ce0e4555d97446f7e5171815ef421a891bd37b06d63e5"
+    },
+    {
+      "path": "skybox/Blue Sky/up.png",
+      "bytes": 161390,
+      "sha256": "a0e60919798abf6e1886ae064f55d1fae5768f0ee1150f5761b0bad02b81f3ac"
+    },
+    {
+      "path": "skybox/Broken Sky/bk.png",
+      "bytes": 23686,
+      "sha256": "fb4e600189db51a4423da3c193bcacf87ba7295dae90176e02f9f865c4500f4b"
+    },
+    {
+      "path": "skybox/Broken Sky/dn.png",
+      "bytes": 8169,
+      "sha256": "4352389dafaba94cf8f07888298e6331db3d44c0bfa2d1b459e6efb07fb3476f"
+    },
+    {
+      "path": "skybox/Broken Sky/ft.png",
+      "bytes": 21532,
+      "sha256": "c505a9a7dc209f89444191cda60aa23dfa8f27e5c44fbb64adb6658ea66941c6"
+    },
+    {
+      "path": "skybox/Broken Sky/lf.png",
+      "bytes": 16369,
+      "sha256": "f391adad5051f23cc607451296f64f4972a91a3917f33e84d87477d951f7a78b"
+    },
+    {
+      "path": "skybox/Broken Sky/rt.png",
+      "bytes": 10954,
+      "sha256": "0d72d66b34d38a29de4ee343107fa45ddcf95deb09e9c904e2af781c50c999b8"
+    },
+    {
+      "path": "skybox/Broken Sky/up.png",
+      "bytes": 21704,
+      "sha256": "b8d6f9d9757918ba6a78a90dbd886e1055ebee1fc336e9ed1cd7264e9fa678d1"
+    },
+    {
+      "path": "skybox/CSGO Jungle/bk.png",
+      "bytes": 235911,
+      "sha256": "42a1f8b17997297769d268e2ce77b992577f22c331e2844296d4cde9e4f40510"
+    },
+    {
+      "path": "skybox/CSGO Jungle/dn.png",
+      "bytes": 365624,
+      "sha256": "e984efed22c9ee4f9de49b7a3c962133997986dac50984e852f6f5f3862d2310"
+    },
+    {
+      "path": "skybox/CSGO Jungle/ft.png",
+      "bytes": 230298,
+      "sha256": "eed8d1ba7ab58837f7fffee0171ede10044d9c0b5e39dc6474accec41f37198f"
+    },
+    {
+      "path": "skybox/CSGO Jungle/lf.png",
+      "bytes": 230987,
+      "sha256": "ef4e9729688bd183b033d75319277f709f299d40b716d8bdcc948d531748cd80"
+    },
+    {
+      "path": "skybox/CSGO Jungle/rt.png",
+      "bytes": 239775,
+      "sha256": "593fe0636378941f85952c5501af492dc9c7f3ec3a497b1509ccc1f4ec799449"
+    },
+    {
+      "path": "skybox/CSGO Jungle/up.png",
+      "bytes": 191116,
+      "sha256": "e28ed9ba9907346130297af1afe6d87962334c19cb61d9a5987222f944fa9692"
+    },
+    {
+      "path": "skybox/Castle Grounds/bk.png",
+      "bytes": 30062,
+      "sha256": "ea4191003f3bf7bf124d2364cdb22ed4e58690ca5a80dd488b502bf56f4bbbae"
+    },
+    {
+      "path": "skybox/Castle Grounds/dn.png",
+      "bytes": 761,
+      "sha256": "f7b116902b3975277c269c9bc9503d4e1cbacd45848c5e3392ea808fce1d80fe"
+    },
+    {
+      "path": "skybox/Castle Grounds/ft.png",
+      "bytes": 30062,
+      "sha256": "ea4191003f3bf7bf124d2364cdb22ed4e58690ca5a80dd488b502bf56f4bbbae"
+    },
+    {
+      "path": "skybox/Castle Grounds/lf.png",
+      "bytes": 30062,
+      "sha256": "ea4191003f3bf7bf124d2364cdb22ed4e58690ca5a80dd488b502bf56f4bbbae"
+    },
+    {
+      "path": "skybox/Castle Grounds/rt.png",
+      "bytes": 30062,
+      "sha256": "ea4191003f3bf7bf124d2364cdb22ed4e58690ca5a80dd488b502bf56f4bbbae"
+    },
+    {
+      "path": "skybox/Castle Grounds/up.png",
+      "bytes": 760,
+      "sha256": "5bb44b22028db6d830b802f3acce5624db17d9082e09f363cd1d3940737c717b"
+    },
+    {
+      "path": "skybox/Chill Gray/bk.png",
+      "bytes": 198670,
+      "sha256": "7ae2acecdb0f855c04310b1f385f3aa18b300b63b03b270fc20195be39a5f668"
+    },
+    {
+      "path": "skybox/Chill Gray/dn.png",
+      "bytes": 138238,
+      "sha256": "f1553244c12587dfd315e217925eec21c87a3dea1f0592829937dadbe34e34bc"
+    },
+    {
+      "path": "skybox/Chill Gray/ft.png",
+      "bytes": 179719,
+      "sha256": "e7d64b8ceab22dc1de831f228784608e7e3eddb8a91d04e14a740c5cf604a6d5"
+    },
+    {
+      "path": "skybox/Chill Gray/lf.png",
+      "bytes": 179272,
+      "sha256": "6bce077865045e34992db4e163bdff1a565882c8d3b50b55b858cace3ec1dead"
+    },
+    {
+      "path": "skybox/Chill Gray/rt.png",
+      "bytes": 173509,
+      "sha256": "380b497fc51576eac92ebe55e0623fbb6ad12388d3057689f98cefa0214f25b6"
+    },
+    {
+      "path": "skybox/Chill Gray/up.png",
+      "bytes": 206596,
+      "sha256": "78bf0580a7925eea52a7a17899b5a7e0ccef6af2f9a4cba3a3d2f47361c0dfa7"
+    },
+    {
+      "path": "skybox/Chill Pink/bk.png",
+      "bytes": 165663,
+      "sha256": "1a9af68968652ec9664e64dd2eceb05f31b8202bea09a5039ccafd16c8057f5d"
+    },
+    {
+      "path": "skybox/Chill Pink/dn.png",
+      "bytes": 97822,
+      "sha256": "5df22befde91a259425e29b413921d5151eec5f48a5a79686b1736ac323a9ba2"
+    },
+    {
+      "path": "skybox/Chill Pink/ft.png",
+      "bytes": 179294,
+      "sha256": "7f7354d18587adc5659fbbec21c912c451792413d9c0eaa423edeedadf649122"
+    },
+    {
+      "path": "skybox/Chill Pink/lf.png",
+      "bytes": 192285,
+      "sha256": "248c2d8d93df23a1e9abe756cc4d9caf25991d17162053c39a07b10c224a49df"
+    },
+    {
+      "path": "skybox/Chill Pink/rt.png",
+      "bytes": 191770,
+      "sha256": "72238272b89b71124d2b440b418d051954091bd4ded123afea7d2da06e1ba29b"
+    },
+    {
+      "path": "skybox/Chill Pink/up.png",
+      "bytes": 165495,
+      "sha256": "539b9d6c4bbe47f4cabeb7b8e8c5562d3c0d3e3dd306d5a4bcf6c58478b20e1b"
+    },
+    {
+      "path": "skybox/Classic 2006/bk.png",
+      "bytes": 68204,
+      "sha256": "d605c4fb1572df25d0b6ad7ab2392a80d2d7b15f8e76f0cce9981c9def759573"
+    },
+    {
+      "path": "skybox/Classic 2006/dn.png",
+      "bytes": 37339,
+      "sha256": "2ba58402e71d0f03fe3df900a600003c78a432030baecc1ee6f3b837128e396a"
+    },
+    {
+      "path": "skybox/Classic 2006/ft.png",
+      "bytes": 76100,
+      "sha256": "28d13b3bc840afae83408e0c72c98d95d936153ef118abffecd99fb4ff245429"
+    },
+    {
+      "path": "skybox/Classic 2006/lf.png",
+      "bytes": 70193,
+      "sha256": "1074bbaba479d7b4d7651dcd7618c47ec40cb753535643f99129620290483709"
+    },
+    {
+      "path": "skybox/Classic 2006/rt.png",
+      "bytes": 66600,
+      "sha256": "7024c68733c9fc0cc1c082c99c0eb9231bf155f99592993c475de6d38448495d"
+    },
+    {
+      "path": "skybox/Classic 2006/up.png",
+      "bytes": 51924,
+      "sha256": "9435b6b1191a16df11bed020f920776f064d03481a4bc604243f0dcb4e37f0ed"
+    },
+    {
+      "path": "skybox/Clear Skies/bk.png",
+      "bytes": 14160,
+      "sha256": "234bf5abf556dc16992818aac6b2b21be4417cdef0ddf650526e3398152a35e1"
+    },
+    {
+      "path": "skybox/Clear Skies/dn.png",
+      "bytes": 843,
+      "sha256": "1707efe457307d0a5e2f5a1ec1cff55b2a44286f3c4d8dda32bf394be8963b8b"
+    },
+    {
+      "path": "skybox/Clear Skies/ft.png",
+      "bytes": 14160,
+      "sha256": "234bf5abf556dc16992818aac6b2b21be4417cdef0ddf650526e3398152a35e1"
+    },
+    {
+      "path": "skybox/Clear Skies/lf.png",
+      "bytes": 14160,
+      "sha256": "234bf5abf556dc16992818aac6b2b21be4417cdef0ddf650526e3398152a35e1"
+    },
+    {
+      "path": "skybox/Clear Skies/rt.png",
+      "bytes": 14160,
+      "sha256": "234bf5abf556dc16992818aac6b2b21be4417cdef0ddf650526e3398152a35e1"
+    },
+    {
+      "path": "skybox/Clear Skies/up.png",
+      "bytes": 16133,
+      "sha256": "b93033ea8dc92284c9190558c5230e21f06bc6bf8e8d9c634c3cf9b8478da637"
+    },
+    {
+      "path": "skybox/Cyan Sky/bk.png",
+      "bytes": 238624,
+      "sha256": "6351699cd3f66ea5ca61d1f48b6f5d196280572d0ccb88d0046e4e9afcedb97a"
+    },
+    {
+      "path": "skybox/Cyan Sky/dn.png",
+      "bytes": 236655,
+      "sha256": "628ec6051f84cd5cdc872fcda8c2eef8af62827eeeac4f7468056b25f044c357"
+    },
+    {
+      "path": "skybox/Cyan Sky/ft.png",
+      "bytes": 221576,
+      "sha256": "45923b7cdcf84292ec7ca551277923bfb0a9d47102a96d2e021866e02745268f"
+    },
+    {
+      "path": "skybox/Cyan Sky/lf.png",
+      "bytes": 249050,
+      "sha256": "a18ae6927b804ee4a8afd83b94769bea40d4d476d3380faab6b6f4db8fd02427"
+    },
+    {
+      "path": "skybox/Cyan Sky/rt.png",
+      "bytes": 228936,
+      "sha256": "0dc9f4163952cfbe747048b18ba40b861e6e52548fc1e68e8b5243d62722bccc"
+    },
+    {
+      "path": "skybox/Cyan Sky/up.png",
+      "bytes": 252422,
+      "sha256": "f205f82a074521b930572a07f3e0148010af1bfc9bb87818e4fb6d37fa006751"
+    },
+    {
+      "path": "skybox/Dead Star Forest/bk.png",
+      "bytes": 181251,
+      "sha256": "99421b3d57b4f4653a838a6d85b5c7b99364ec8703381d82a9ba43fcae1ee01b"
+    },
+    {
+      "path": "skybox/Dead Star Forest/dn.png",
+      "bytes": 223203,
+      "sha256": "39d4dea7c0314f6ebca29f27799a50f45283bb149e4818d5f0ba23076824bb5a"
+    },
+    {
+      "path": "skybox/Dead Star Forest/ft.png",
+      "bytes": 147542,
+      "sha256": "7c59f9cb21bb5c7d888787b7659ab5492417483ea39f2679cef41779634585b8"
+    },
+    {
+      "path": "skybox/Dead Star Forest/lf.png",
+      "bytes": 180987,
+      "sha256": "e9cf30fa9189d88940c55529e5d02ce8898922a83ddfedd57c0c79e44890e52a"
+    },
+    {
+      "path": "skybox/Dead Star Forest/rt.png",
+      "bytes": 249905,
+      "sha256": "9a38d7942090df3d36bad3c2bddbbeee6619c3df39f0b80644506f637097f887"
+    },
+    {
+      "path": "skybox/Dead Star Forest/up.png",
+      "bytes": 135978,
+      "sha256": "e118aefb6ac910d98ed2df4145322980ca47edc1f29a43748374829acf1e9c33"
+    },
+    {
+      "path": "skybox/Deep Purple/bk.png",
+      "bytes": 128329,
+      "sha256": "d2d331a4b9875be47a35b3f1cd7d7aedaaf1c3a6041069578e9bc5638654ef1f"
+    },
+    {
+      "path": "skybox/Deep Purple/dn.png",
+      "bytes": 52253,
+      "sha256": "6f607b1077db4706ae164f8e81c35c7d542bb517a3470453c17d8388d36539be"
+    },
+    {
+      "path": "skybox/Deep Purple/ft.png",
+      "bytes": 130403,
+      "sha256": "4f5e7ac827a95af256b15934686910aff73eda92b9b3e75d10f6f8de2953f595"
+    },
+    {
+      "path": "skybox/Deep Purple/lf.png",
+      "bytes": 133974,
+      "sha256": "40e27fde0de8c6e1b4d8cfa2f03daf17e0e209208d37ff0a017b3bf6198bab0b"
+    },
+    {
+      "path": "skybox/Deep Purple/rt.png",
+      "bytes": 137493,
+      "sha256": "1d0d90c1ea49f03afc036e9223a88ee1ee8c67792d2f3e26ee0dcf55bf93541a"
+    },
+    {
+      "path": "skybox/Deep Purple/up.png",
+      "bytes": 291666,
+      "sha256": "a17cd8782665917991fd753827eb229d6a0d03f468beb00b3653d7883da59b32"
+    },
+    {
+      "path": "skybox/Disaster Sky/bk.png",
+      "bytes": 206889,
+      "sha256": "cab15efcf254ee88025a2fced701c41e5e61f03fe93bb33d5ecabe6ca0ad2a9d"
+    },
+    {
+      "path": "skybox/Disaster Sky/dn.png",
+      "bytes": 32236,
+      "sha256": "ed32bfcbbad9477851412ca15da318fe4ba93a1b5ec93be7a989855d83b0b516"
+    },
+    {
+      "path": "skybox/Disaster Sky/ft.png",
+      "bytes": 259578,
+      "sha256": "acfa2f3be7ab7fbaa66770464ed5e3eba9be458f122a5ca2aa5839c2eca590f9"
+    },
+    {
+      "path": "skybox/Disaster Sky/lf.png",
+      "bytes": 189095,
+      "sha256": "003387fd752637eea5aac723a2fa3245dc04e33d7b6b9a99a70cb1ecf1abf519"
+    },
+    {
+      "path": "skybox/Disaster Sky/rt.png",
+      "bytes": 251800,
+      "sha256": "ec0ca3f9c37ba7918309835188790098ecba0c2e574ffa57beb78af374f2d75e"
+    },
+    {
+      "path": "skybox/Disaster Sky/up.png",
+      "bytes": 309538,
+      "sha256": "470d7e00d483d5e822c96066cc812a007dd16226e58cb382bc95e19cdbb8e61c"
+    },
+    {
+      "path": "skybox/Elegant Morning/bk.png",
+      "bytes": 224203,
+      "sha256": "8f6a31ffdfc843ea4d83205bb4067604c6e59dbe68516a605f8477b0e8660a64"
+    },
+    {
+      "path": "skybox/Elegant Morning/dn.png",
+      "bytes": 256421,
+      "sha256": "832e530dac33e6e79141d25b4e1bd936ac6ed4d1a7924f6f6612896951813057"
+    },
+    {
+      "path": "skybox/Elegant Morning/ft.png",
+      "bytes": 224506,
+      "sha256": "98cf5534b867b76d2b277e1c5811aafeb816909ad14331c8c1a84f6431a59ccc"
+    },
+    {
+      "path": "skybox/Elegant Morning/lf.png",
+      "bytes": 221962,
+      "sha256": "f68ab43fd48415e30a842bcab62ab0fdbf038e037c998cbb1f4ef2e4f1692805"
+    },
+    {
+      "path": "skybox/Elegant Morning/rt.png",
+      "bytes": 239028,
+      "sha256": "580cfa1215d6c0082f7d702e7cc12376375d9b35f03e2622412790cc83650fea"
+    },
+    {
+      "path": "skybox/Elegant Morning/up.png",
+      "bytes": 123032,
+      "sha256": "00e18d85a738b5073701694b355f946a17ee281156411ed41c9f2636280f806b"
+    },
+    {
+      "path": "skybox/Emo/bk.png",
+      "bytes": 140271,
+      "sha256": "d9dc4ea7320f18a131055f3f421add22a8514c5e242766a4af28d05637bc8dc1"
+    },
+    {
+      "path": "skybox/Emo/dn.png",
+      "bytes": 35321,
+      "sha256": "dfe0b2b5191fec821e0a7dd44132cf23eb813f31a02c465aebce9181046567af"
+    },
+    {
+      "path": "skybox/Emo/ft.png",
+      "bytes": 196864,
+      "sha256": "d7c459167b9d37ef9318e5057fdaa44a13d564e323d4b10339e4524973f70842"
+    },
+    {
+      "path": "skybox/Emo/lf.png",
+      "bytes": 143436,
+      "sha256": "ef6f01356c96416a333b6c572f0345918e1f091c38e656e60bbbeac62bba839b"
+    },
+    {
+      "path": "skybox/Emo/rt.png",
+      "bytes": 182396,
+      "sha256": "95ed6b8ccd3694a7d3c4dca2919ea205350ff89b0d71c745069f34e5dde662a4"
+    },
+    {
+      "path": "skybox/Emo/up.png",
+      "bytes": 216419,
+      "sha256": "3b1b95758b91bfce2bdc5e25888ac37a8290979471610518c16ef0c6b16e55f4"
+    },
+    {
+      "path": "skybox/Fade Blue/bk.png",
+      "bytes": 231723,
+      "sha256": "0c4c7b580165178923aa9c903c2fa4f76425b119fee317a8dcbb2df7725b730e"
+    },
+    {
+      "path": "skybox/Fade Blue/dn.png",
+      "bytes": 299826,
+      "sha256": "2863e27a12e6b6c0ec0b7d9e8c3b4ff22b4e2721f0ada849449fe324be35b66e"
+    },
+    {
+      "path": "skybox/Fade Blue/ft.png",
+      "bytes": 246864,
+      "sha256": "9a974db64fdd6428b05cbce150068e3c540e60a8b1f0b78c375a2d9cf60458bc"
+    },
+    {
+      "path": "skybox/Fade Blue/lf.png",
+      "bytes": 243015,
+      "sha256": "087d539638ddb8d35eaed01e8f7896d9c05a59a35e130baf8d35ec6f91985843"
+    },
+    {
+      "path": "skybox/Fade Blue/rt.png",
+      "bytes": 250661,
+      "sha256": "05a7b7c36adad3eb8706e7a70f610fd072fe7e282f769b7a567672dd5eaa1205"
+    },
+    {
+      "path": "skybox/Fade Blue/up.png",
+      "bytes": 132498,
+      "sha256": "34367f80d3ac764890652931f17bb2b8f02808830376e557532822456149cdf5"
+    },
+    {
+      "path": "skybox/Forest/bk.png",
+      "bytes": 241913,
+      "sha256": "99eae5b146682e3fff0b46e1520ab26fd852a91f40f14b4eb08f6ff0005bd514"
+    },
+    {
+      "path": "skybox/Forest/dn.png",
+      "bytes": 338398,
+      "sha256": "32ecde8e3256887d9bec3380e7b5b67b8b4e8de3744c10de12f611ef555237f6"
+    },
+    {
+      "path": "skybox/Forest/ft.png",
+      "bytes": 281465,
+      "sha256": "7de196a046004c1e22135c22afcca3f25d058266fb108200ba6f856a1ba6f5a9"
+    },
+    {
+      "path": "skybox/Forest/lf.png",
+      "bytes": 268055,
+      "sha256": "639ac12141c7630580e0da902a904fbb6ecdebfbd2a6e503efabe82624525e59"
+    },
+    {
+      "path": "skybox/Forest/rt.png",
+      "bytes": 268957,
+      "sha256": "9f97642b63e0a321511b2d283d9581ffab5c07132218406bbf1be5ff45cd249a"
+    },
+    {
+      "path": "skybox/Forest/up.png",
+      "bytes": 184428,
+      "sha256": "5d735fa1827cec39d3487eecdc745c8015199d5b41c8b55d35710f5af4e7f30e"
+    },
+    {
+      "path": "skybox/Goodnight/bk.png",
+      "bytes": 361905,
+      "sha256": "7dbdbd46e091f5c6cdafe8291669ba2af13571970d1e067721f3aae524155f6e"
+    },
+    {
+      "path": "skybox/Grim Night/bk.png",
+      "bytes": 106742,
+      "sha256": "205a99e87e46b4a48dc83ddefaa056ce81aabf97a5f6b178c20fde40fff10ca8"
+    },
+    {
+      "path": "skybox/Grim Night/dn.png",
+      "bytes": 843,
+      "sha256": "1707efe457307d0a5e2f5a1ec1cff55b2a44286f3c4d8dda32bf394be8963b8b"
+    },
+    {
+      "path": "skybox/Grim Night/ft.png",
+      "bytes": 94973,
+      "sha256": "6d86cdd1956c2aa3387d8b8951f03a282f2aaeaa8a31c1e3f48b03ce7a3e9390"
+    },
+    {
+      "path": "skybox/Grim Night/lf.png",
+      "bytes": 83802,
+      "sha256": "ef34b66a4154b15d21008aa888afb4cc1c56352eac5bf81244ff641bef7e7002"
+    },
+    {
+      "path": "skybox/Grim Night/rt.png",
+      "bytes": 114445,
+      "sha256": "5f4f7cb6f4b6a7be546465ee4ae3ad3549044def6c805af98456a2cf93d16e37"
+    },
+    {
+      "path": "skybox/Grim Night/up.png",
+      "bytes": 50768,
+      "sha256": "bc83fb59e023127efc8ee445c0fa219e2fda61b315ddaeb02c589301801219d5"
+    },
+    {
+      "path": "skybox/Half-Life Xen/bk.png",
+      "bytes": 53982,
+      "sha256": "130cece9099feb97db41d0701d878f4a7148d4ef411766bc2499a553a548c65d"
+    },
+    {
+      "path": "skybox/Half-Life Xen/dn.png",
+      "bytes": 42946,
+      "sha256": "13c554b007b4159f972a940bb725263a30b68d21972c0bd76495e554460adaca"
+    },
+    {
+      "path": "skybox/Half-Life Xen/ft.png",
+      "bytes": 63408,
+      "sha256": "d714781230741627ce6e361a75a564d890f976217d5962fb95003cc12487cdf9"
+    },
+    {
+      "path": "skybox/Half-Life Xen/lf.png",
+      "bytes": 62972,
+      "sha256": "aae77e81c7952ed22cbb3139f16c235fdc15047051890128cab5e84283ccee82"
+    },
+    {
+      "path": "skybox/Half-Life Xen/rt.png",
+      "bytes": 72324,
+      "sha256": "e33fda47f791188a82e42bb73eb893ffc42503cc4229693d0212675e8dd21ce0"
+    },
+    {
+      "path": "skybox/Half-Life Xen/up.png",
+      "bytes": 56583,
+      "sha256": "e1b9fffb6d2aeda7ed6c70ea3e14f21e5fa729533cc8c2c2e88040c7f7863897"
+    },
+    {
+      "path": "skybox/Light Pink/lf.png",
+      "bytes": 266817,
+      "sha256": "c0b267b1661c1b8b69d26289904b8a043103879bfafeeb53c991304e27de264a"
+    },
+    {
+      "path": "skybox/Light Pink/rt.png",
+      "bytes": 260015,
+      "sha256": "67f95756ae95e5672e56a2b96463437a37c73c90cb3c2eded686e324082ae0e3"
+    },
+    {
+      "path": "skybox/Light Pink/up.png",
+      "bytes": 256110,
+      "sha256": "4068d345e92a349369f862c07456b95303400ff0ced464662ea368fbbc79f898"
+    },
+    {
+      "path": "skybox/Minecraft Day/bk.png",
+      "bytes": 333424,
+      "sha256": "0f1fb68ec534ccf3164010a77fd5bc0443c4a8bdbc679fe41dcfd5a13eba2ab9"
+    },
+    {
+      "path": "skybox/Minecraft Day/dn.png",
+      "bytes": 454211,
+      "sha256": "17136f950345223312251d1d705746f063194c1d00e7b692e7ed41fca09e978b"
+    },
+    {
+      "path": "skybox/Minecraft Day/ft.png",
+      "bytes": 304495,
+      "sha256": "25800b68a16681d092c72516be70caa5678787eef6ce7214656db9517ba0ec8b"
+    },
+    {
+      "path": "skybox/Minecraft Day/lf.png",
+      "bytes": 323451,
+      "sha256": "f293e29a48b9fca37951ee1a377abadafd86a88cd535cd186adeaa3ec58d0fb2"
+    },
+    {
+      "path": "skybox/Minecraft Day/rt.png",
+      "bytes": 394121,
+      "sha256": "28a3f538340cf6e8bb9907b7b3152447cb0367cc80db909740a88915d8df74d8"
+    },
+    {
+      "path": "skybox/Minecraft Day/up.png",
+      "bytes": 116212,
+      "sha256": "83e1bfcc7501be90f083d7065d60d3c61009e6679b37279ac3159066ac895a94"
+    },
+    {
+      "path": "skybox/Minecraft End/bk.png",
+      "bytes": 170222,
+      "sha256": "ebdd652282d8331d1ef146897b15ca07438818e6bda338bfcf0d781a10fe74b9"
+    },
+    {
+      "path": "skybox/Minecraft End/dn.png",
+      "bytes": 189128,
+      "sha256": "8e6904cfa7e826128126f199feb38b8ee470014069bfe4574bf942bd096f94d0"
+    },
+    {
+      "path": "skybox/Minecraft End/ft.png",
+      "bytes": 196295,
+      "sha256": "a8bf7a890f0d98f7fbf69d09114fd5d60f8ae46a66e6a8e2604f2aaa1236870d"
+    },
+    {
+      "path": "skybox/Minecraft End/lf.png",
+      "bytes": 193691,
+      "sha256": "c365f41d9e49d6bc05c042ae59e28219b3247187a29cbee34fc04b23c7551360"
+    },
+    {
+      "path": "skybox/Minecraft End/rt.png",
+      "bytes": 188007,
+      "sha256": "248636aead579c1c55004e3a926bf4342e4e2b01cb23457133185df013798d41"
+    },
+    {
+      "path": "skybox/Minecraft End/up.png",
+      "bytes": 241572,
+      "sha256": "1b2588fe250e3bbb53ffa34bf6993a518f1715e89631536a8ff73c81c6645e79"
+    },
+    {
+      "path": "skybox/Nibiru Sky/bk.png",
+      "bytes": 264154,
+      "sha256": "7c5b5fe19f85c41ae08e9715963724cec6134dd005a0ecd96038ca1a74206cc3"
+    },
+    {
+      "path": "skybox/Nibiru Sky/dn.png",
+      "bytes": 135430,
+      "sha256": "ace27412af201090a1213a9d56b134a80d4a83f21bd63f9d720037ff2500f842"
+    },
+    {
+      "path": "skybox/Nibiru Sky/ft.png",
+      "bytes": 338872,
+      "sha256": "794d9d779583b7543df4b40c2d9899c01632c0e4993b66cf5cff5d9439e1c8d8"
+    },
+    {
+      "path": "skybox/Nibiru Sky/lf.png",
+      "bytes": 338489,
+      "sha256": "12a40e067f29af9234b2b4e70fa68fd25ab9c325eb5921fcdbd6ce12e0ddeba1"
+    },
+    {
+      "path": "skybox/Nibiru Sky/rt.png",
+      "bytes": 285513,
+      "sha256": "b3e211b56ba057357459337c44502acb088ce18d644186df54084fe9f53b5b8a"
+    },
+    {
+      "path": "skybox/Nibiru Sky/up.png",
+      "bytes": 308017,
+      "sha256": "b8143fd4bb4bff4fc58f1726a0e9a1f6683b75fa4e82d3bb92194934343d4ec5"
+    },
+    {
+      "path": "skybox/Orange Sky/dn.png",
+      "bytes": 30280,
+      "sha256": "38ed9d451c9dea300a2807a35057a835b8ae06daada8733658761def290169e0"
+    },
+    {
+      "path": "skybox/Orange Sky/ft.png",
+      "bytes": 133384,
+      "sha256": "9a866e4274c0ca9b765e92a59d8684b895d2fd9f5cf5572f9f0339936c5af23c"
+    },
+    {
+      "path": "skybox/Orange Sky/lf.png",
+      "bytes": 130786,
+      "sha256": "ded6cb9fca5340547e6a8ecc99e501e5f214d46f886ac81939284239e4451620"
+    },
+    {
+      "path": "skybox/Orange Sky/rt.png",
+      "bytes": 122866,
+      "sha256": "c1e08ed1db8648b8f3bd961d95b737c637c0fe3263f8bf2dcaf6d2e40216075a"
+    },
+    {
+      "path": "skybox/Orange Sky/up.png",
+      "bytes": 187283,
+      "sha256": "8f59436bc766e645fafea2fbae92a226058dacce3943bb3aa661b8905e40b33b"
+    },
+    {
+      "path": "skybox/Overcast/bk.png",
+      "bytes": 178925,
+      "sha256": "3c70e0c6a5ff380d32c039fb56e4bb26e05451d12535982617713ba3b2cbeb34"
+    },
+    {
+      "path": "skybox/Overcast/dn.png",
+      "bytes": 108597,
+      "sha256": "2655ffdf4a1564169a85d37fbd337797780d53bc5c8deb81be7e1db76332c35c"
+    },
+    {
+      "path": "skybox/Overcast/ft.png",
+      "bytes": 165817,
+      "sha256": "407a89e3a320abc7a66be5f39fc8f552ca04c54bc570d080c5c829094cb79e38"
+    },
+    {
+      "path": "skybox/Overcast/lf.png",
+      "bytes": 186100,
+      "sha256": "111484f6d337f99d1f176cb495407ed10db7d0be439ea5c7d922ab4f4be18486"
+    },
+    {
+      "path": "skybox/Overcast/rt.png",
+      "bytes": 165639,
+      "sha256": "85de797b5c5e6e74e077ad14e2b8ef16127871a3a96cf7a9e3d367063f638588"
+    },
+    {
+      "path": "skybox/Overcast/up.png",
+      "bytes": 275738,
+      "sha256": "807e8c06238b48cc21adcbcd4af3508631236c7a3c587b907a71c986ff322bdc"
+    },
+    {
+      "path": "skybox/Pandora/bk.png",
+      "bytes": 197770,
+      "sha256": "c98001f002881cb5c6bdb25a885b0f152a36176890df441926105113c31a2e5e"
+    },
+    {
+      "path": "skybox/Pandora/dn.png",
+      "bytes": 140982,
+      "sha256": "71f0011cc8f8e402cb01b36681d78838511878e30efc301ed90cc3ebff4bbbae"
+    },
+    {
+      "path": "skybox/Pandora/ft.png",
+      "bytes": 181850,
+      "sha256": "2d4732d6c23effb21df5c93aa9e9322c745f9abce006ea486fbb240435fd31f4"
+    },
+    {
+      "path": "skybox/Pandora/lf.png",
+      "bytes": 229966,
+      "sha256": "bae9d363d523dec3454240b4a6587b24450765e1a35500302dffcd88dfbc67bd"
+    },
+    {
+      "path": "skybox/Pandora/rt.png",
+      "bytes": 240826,
+      "sha256": "ae5254ff1c7309be4eb5bdba34fdadd78a528206c2d4765bdf1e6f7afb208a83"
+    },
+    {
+      "path": "skybox/Pandora/up.png",
+      "bytes": 218145,
+      "sha256": "6121bf428ba8cc3c1c19807f994c786734007614fa1809598714016d2b69377e"
+    },
+    {
+      "path": "skybox/Peaceful Morning/bk.png",
+      "bytes": 210490,
+      "sha256": "4b5b855641434c05e65998d380955ead338a534d548ea0612501221fc3e4f7dd"
+    },
+    {
+      "path": "skybox/Peaceful Morning/dn.png",
+      "bytes": 167113,
+      "sha256": "2e75f6ba74266c107abe0e25c0352a86866422942e93cb48199fde160a1c8400"
+    },
+    {
+      "path": "skybox/Peaceful Morning/ft.png",
+      "bytes": 224432,
+      "sha256": "786f3d68604ad27582751a3ac8e12b30a7a3a79898d700101fd52fd6213004fb"
+    },
+    {
+      "path": "skybox/Peaceful Morning/lf.png",
+      "bytes": 255472,
+      "sha256": "4aca2c3495c11521995be2d61d46c6e5999f1fe0ed9da24a6f86d2ca2ab1e01b"
+    },
+    {
+      "path": "skybox/Peaceful Morning/rt.png",
+      "bytes": 179146,
+      "sha256": "9cc94b9c0474f1fbd6162bc4d6cc68057b7e3fa7f8d6c3e1726ade8ef91f680c"
+    },
+    {
+      "path": "skybox/Peaceful Morning/up.png",
+      "bytes": 156181,
+      "sha256": "3370bfde98ab5d109ed7c738a0ea2fc13b6438fbd1463cd03c1bd88d7a9bab8e"
+    },
+    {
+      "path": "skybox/Pink Sunrise/bk.png",
+      "bytes": 206491,
+      "sha256": "d1f75bef4a398e71a044f8d14f77fe72062574f98b911c134ce658459d256e1b"
+    },
+    {
+      "path": "skybox/Pink Sunrise/dn.png",
+      "bytes": 142087,
+      "sha256": "24b85628f31c97b1e20e30ffb95734a8508153c83a8b4ff4af5ebdca5128adf6"
+    },
+    {
+      "path": "skybox/Pink Sunrise/ft.png",
+      "bytes": 210014,
+      "sha256": "6b1ee42b5c3d54e0bca15ac8045996db1a97ab9e197ee32fe765acc80aa76a02"
+    },
+    {
+      "path": "skybox/Pink Sunrise/lf.png",
+      "bytes": 257968,
+      "sha256": "231dbc0128ddfff5239d6cc6b23330bcd1171afa33691a69da87c93eef322191"
+    },
+    {
+      "path": "skybox/Pink Sunrise/rt.png",
+      "bytes": 212570,
+      "sha256": "218bc91eff4c9214ff10ea7864d3248b117a86ae4ffa67adf5370313ff8cb594"
+    },
+    {
+      "path": "skybox/Pink Sunrise/up.png",
+      "bytes": 394767,
+      "sha256": "b7c21fc13e7af1300db57fdc9991eb8355231b1c6a43d5bfc969e72a587a642e"
+    },
+    {
+      "path": "skybox/Pumpkin Hill/bk.png",
+      "bytes": 183565,
+      "sha256": "8cea1407b3831736d8e3fd04427d2002da46eb804180d97afd7904fd16b55046"
+    },
+    {
+      "path": "skybox/Pumpkin Hill/dn.png",
+      "bytes": 50213,
+      "sha256": "19c2bed156016341298161a2c181c44663d67d5fe935c5e187808763bce50aac"
+    },
+    {
+      "path": "skybox/Pumpkin Hill/ft.png",
+      "bytes": 188328,
+      "sha256": "dbaedfcb063856e657348b210c81a91334dab45025641bdb3fdb6a45ec8f58cf"
+    },
+    {
+      "path": "skybox/Pumpkin Hill/lf.png",
+      "bytes": 181607,
+      "sha256": "8245a92ddf0262db61683d8ca6aca0104bace1669ab9bc90bd697b99fee48040"
+    },
+    {
+      "path": "skybox/Pumpkin Hill/rt.png",
+      "bytes": 187654,
+      "sha256": "41011bb09e4e61bc5c579007742d5768b02933f63c89e91e8cda0226ad02434f"
+    },
+    {
+      "path": "skybox/Pumpkin Hill/up.png",
+      "bytes": 112973,
+      "sha256": "3a8ff041ecd8e148425b48632b2c474d251aa1c3d65926c0c7f6aba14c4c4da1"
+    },
+    {
+      "path": "skybox/Purple Nebula/bk.png",
+      "bytes": 197798,
+      "sha256": "f9c8e4cfe8cb664ed576277d94a687cdaaf9a98c4600aa25869297212ef5493c"
+    },
+    {
+      "path": "skybox/Purple Nebula/dn.png",
+      "bytes": 208893,
+      "sha256": "d9a4f2799f455288899ad4f15ae2b65f564d8f44f65225e035bfd92b3d19aeca"
+    },
+    {
+      "path": "skybox/Purple Nebula/ft.png",
+      "bytes": 213569,
+      "sha256": "aa4f03f309c633035bd4f2d233457cba131899d149bdd4676ca04d8190ac635b"
+    },
+    {
+      "path": "skybox/Purple Nebula/lf.png",
+      "bytes": 184745,
+      "sha256": "bfd4fb23fa0fedb65ea6fa7d00de3c1ac6c3a7a54fe09663e24b6a898fe3296f"
+    },
+    {
+      "path": "skybox/Purple Nebula/rt.png",
+      "bytes": 208411,
+      "sha256": "38089a589a4e4f17e4687ee3d14177495dfc36924b291c1cc71ca9fc060df630"
+    },
+    {
+      "path": "skybox/Purple Nebula/up.png",
+      "bytes": 211680,
+      "sha256": "1f8c83f7c37340c09d778f95475f5028d914ffc71cfc1956b0f43ae2a89a13c1"
+    },
+    {
+      "path": "skybox/Red Sky/bk.png",
+      "bytes": 215059,
+      "sha256": "d7cf9afeda5eaf41db0c6910c749065b41651d0a8fbb6104ca8bc9e588bf5a05"
+    },
+    {
+      "path": "skybox/Red Sky/dn.png",
+      "bytes": 163747,
+      "sha256": "0c318d128b73bf70da69b5bb807e8fa458499ddc32f02224650c9b172082f473"
+    },
+    {
+      "path": "skybox/Red Sky/ft.png",
+      "bytes": 170659,
+      "sha256": "785b2449a339c97301c18b07a8bd0f4210c7448cbcfa62836df199f20d45a61b"
+    },
+    {
+      "path": "skybox/Red Sky/lf.png",
+      "bytes": 189061,
+      "sha256": "54476800de26bb1995dd3ede4a71cd5b5602f5fd71947d0f286dfd6487ddac61"
+    },
+    {
+      "path": "skybox/Red Sky/rt.png",
+      "bytes": 168853,
+      "sha256": "2900490c62ce19d1a6d708ab4efe2a47f8515acee2141b749002634c439ee7fb"
+    },
+    {
+      "path": "skybox/Red Sky/up.png",
+      "bytes": 120035,
+      "sha256": "1f0487782161a79ce2938384faa1c809a17c09d5cb3b2b194a07b34bfa2772cd"
+    },
+    {
+      "path": "skybox/SFOTH Classic/bk.png",
+      "bytes": 219576,
+      "sha256": "533f06de1e18013039bf990261787deb1b4441df9d4c1628e5197496f4dfb49d"
+    },
+    {
+      "path": "skybox/SFOTH Classic/dn.png",
+      "bytes": 6082,
+      "sha256": "69741c0deeef0665fc11b42c6514ac30f8a37b06f6431773a88774b967d85dad"
+    },
+    {
+      "path": "skybox/SFOTH Classic/ft.png",
+      "bytes": 209473,
+      "sha256": "cc52f0a943f4ae57fb65aa52eed958f78569159d61d7330fc49b4b698e6066ac"
+    },
+    {
+      "path": "skybox/SFOTH Classic/lf.png",
+      "bytes": 220871,
+      "sha256": "59ea66ebea6c91423b22ae6ba89c92259c9ce55f89bfdfb52b7aaec49cc11ea1"
+    },
+    {
+      "path": "skybox/SFOTH Classic/rt.png",
+      "bytes": 179908,
+      "sha256": "f0220635c91af8c30a75a970c2c8479b57c166f7f619a0ff85a2294b33321d81"
+    },
+    {
+      "path": "skybox/SFOTH Classic/up.png",
+      "bytes": 325329,
+      "sha256": "b5b78cb26b053e87487c987a365d541c8061bc46624bb2d7d5102b568f3d5494"
+    },
+    {
+      "path": "skybox/Setting Sun/bk.png",
+      "bytes": 237680,
+      "sha256": "3e8e6c358780f2b6ce5af44b49d316d7e9669593f6cd347df98416fb398b75fb"
+    },
+    {
+      "path": "skybox/Setting Sun/dn.png",
+      "bytes": 273523,
+      "sha256": "15a88115b548ecad78463891e52b3a948182998c9453e76a515332f541847c93"
+    },
+    {
+      "path": "skybox/Setting Sun/ft.png",
+      "bytes": 224711,
+      "sha256": "a7f0acc2266f2898e6e3a13b694da1dbdf64b695976e279fd1d7c3dcd1e4f6e2"
+    },
+    {
+      "path": "skybox/Setting Sun/lf.png",
+      "bytes": 227732,
+      "sha256": "4ff977dacbb7aa68bc73436357f387ba7ca8d8a45c463701d2a92a2db0a466cd"
+    },
+    {
+      "path": "skybox/Setting Sun/rt.png",
+      "bytes": 250685,
+      "sha256": "2b6d4920e73e73369faaa861ba097c988c33218d7c7e9cdf751faa6a2394377c"
+    },
+    {
+      "path": "skybox/Setting Sun/up.png",
+      "bytes": 89617,
+      "sha256": "3a8b8e8baae590edb726c4cbcbe7e050ac5a5a9ad4cfd854e95f345df8da253f"
+    },
+    {
+      "path": "skybox/Shiverfrost/bk.png",
+      "bytes": 101151,
+      "sha256": "671f4642d6ca4ec5264dc6cde2fe8c3957460272accef3a8efccd5c963c2daef"
+    },
+    {
+      "path": "skybox/Shiverfrost/dn.png",
+      "bytes": 843,
+      "sha256": "1707efe457307d0a5e2f5a1ec1cff55b2a44286f3c4d8dda32bf394be8963b8b"
+    },
+    {
+      "path": "skybox/Shiverfrost/ft.png",
+      "bytes": 114361,
+      "sha256": "c0f8388087d64bd8962dc1e7ed00de20c96f94aab7d1da9b9a000cf6e8e87dbe"
+    },
+    {
+      "path": "skybox/Shiverfrost/lf.png",
+      "bytes": 103825,
+      "sha256": "be14186e2ac23c7304defa0f86e16f053c8d9c8f10d35936614c41a1260745a8"
+    },
+    {
+      "path": "skybox/Shiverfrost/rt.png",
+      "bytes": 112833,
+      "sha256": "c725ea5b8ceec690107347467048405c02a1ab2152a6ac610285c6277b67ebf3"
+    },
+    {
+      "path": "skybox/Shiverfrost/up.png",
+      "bytes": 66547,
+      "sha256": "749b6465509e1c324e2ffcb25f8d34e1f8cc21c6f7ffa17a0603b13daf0d91b9"
+    },
+    {
+      "path": "skybox/Sky 05/bk.png",
+      "bytes": 232932,
+      "sha256": "c6763713efd9115123b06aab4b55e2e12cef25782791e712532913153b1fdfaf"
+    },
+    {
+      "path": "skybox/Sky 05/dn.png",
+      "bytes": 285447,
+      "sha256": "7b5e71e634d20b86dc9aecf047c7886dc64e1adcbb9db5666dc3a294bba0e3bc"
+    },
+    {
+      "path": "skybox/Sky 05/ft.png",
+      "bytes": 255260,
+      "sha256": "3429467d990b31c9005e1114081d459972ab39b81ed7ae91dd57aa622f75ebad"
+    },
+    {
+      "path": "skybox/Sky 05/lf.png",
+      "bytes": 234163,
+      "sha256": "9df109d48ab317e0b0adddfe7fddfbf591a01a5f06d521a5ad5ecf3302a53523"
+    },
+    {
+      "path": "skybox/Sky 05/rt.png",
+      "bytes": 243886,
+      "sha256": "478b275e8e873d18fb84ce4affeb48158aac9a757733f187f10c4403a83396d2"
+    },
+    {
+      "path": "skybox/Sky 05/up.png",
+      "bytes": 106745,
+      "sha256": "8f7a9fd96f3e3d12d983e76c94fee9ea1f4304ce41bd84ee841496463f148207"
+    },
+    {
+      "path": "skybox/Sky 13/bk.png",
+      "bytes": 228788,
+      "sha256": "31b5b109bad5b2e756c82e6c5dc233c57318ac2c0a0f9526e0faf0f85e706249"
+    },
+    {
+      "path": "skybox/Sky 13/dn.png",
+      "bytes": 194362,
+      "sha256": "0376e7da21af4724ec5769dfa9fe12c2502892f9bab86107132f01959c8b8c3e"
+    },
+    {
+      "path": "skybox/Sky 13/ft.png",
+      "bytes": 244661,
+      "sha256": "37598201af8b384b87aec15f7ec15ed788ab78350a00090a911681b3103265ba"
+    },
+    {
+      "path": "skybox/Sky 13/lf.png",
+      "bytes": 207047,
+      "sha256": "adb49b9aeb68dd7d6d31e4d19fcd2c932a0161cbe215d32b895612e010ba466e"
+    },
+    {
+      "path": "skybox/Sky 13/rt.png",
+      "bytes": 238434,
+      "sha256": "c069d1b56a8bb3956833030a5b9859a483ee903bac4000b225fa85d6c0407a05"
+    },
+    {
+      "path": "skybox/Sky 13/up.png",
+      "bytes": 294826,
+      "sha256": "fa0364f23f0f08f7b1663118729786fd8141b360c12e4eba884625c44284dcb7"
+    },
+    {
+      "path": "skybox/Sky 22/bk.png",
+      "bytes": 241215,
+      "sha256": "e08262b650542063b1e319c741eeaef6c24e8eb1056e2092aced83ae3296304d"
+    },
+    {
+      "path": "skybox/Sky 22/dn.png",
+      "bytes": 114576,
+      "sha256": "d6e23ab94d91faaf6b8d571a9aed598f4fdebdc19dae90c32ce90f4af4a43f3a"
+    },
+    {
+      "path": "skybox/Sky 22/ft.png",
+      "bytes": 293326,
+      "sha256": "d4904ccef4dc30b54a0c60ae76e9487cb646488daf673126e6723b8f1ec62cb5"
+    },
+    {
+      "path": "skybox/Sky 22/lf.png",
+      "bytes": 284278,
+      "sha256": "4817248a82f0fcd1d62a80d281a27ff67ff41af380208367684c1f0fe95f9904"
+    },
+    {
+      "path": "skybox/Sky 22/rt.png",
+      "bytes": 286795,
+      "sha256": "4a7edaa053e116666cffee5de96e7401bccf41fd1e89237d63d0c212a440bf4e"
+    },
+    {
+      "path": "skybox/Sky 22/up.png",
+      "bytes": 165664,
+      "sha256": "a4c223e32708041e8e5aece5ac68bd7ac5076a9f9912c8655f9c6535658a49a6"
+    },
+    {
+      "path": "skybox/Sky 31/bk.png",
+      "bytes": 254067,
+      "sha256": "c0c3f5ab86af64905c84b8313b95ba27bff7f96b8f211d968486e20d2259a9e8"
+    },
+    {
+      "path": "skybox/Sky 31/dn.png",
+      "bytes": 33988,
+      "sha256": "a13665d3c8b9cc0c71a3c801f123e92f7863b44951501bb94f3eb05235fd93de"
+    },
+    {
+      "path": "skybox/Sky 31/ft.png",
+      "bytes": 246879,
+      "sha256": "7d5daa23e8dd65ddd12d7c97a76b127b616bdfdb4d1b3f44e66fb1752ac41e53"
+    },
+    {
+      "path": "skybox/Sky 31/lf.png",
+      "bytes": 240617,
+      "sha256": "7753ad54d9a8e88f48b21dbfcc66f32421794c0dcdd8018d5715ab849e308c78"
+    },
+    {
+      "path": "skybox/Sky 31/rt.png",
+      "bytes": 257139,
+      "sha256": "07c927ecaf8413508ec31cbcc0951830043191fa4f3c7b0da547da34cfd3a881"
+    },
+    {
+      "path": "skybox/Sky 31/up.png",
+      "bytes": 179687,
+      "sha256": "72614f8330a2e66f0627c3c299dae782ed2d9a531422e2dd17eedd245bb63002"
+    },
+    {
+      "path": "skybox/Sky 38/bk.png",
+      "bytes": 167791,
+      "sha256": "99bcd7463774f04c504dcd2d2fafc1b16227e1f85a1895ab5e2bb5d40cb4a8ed"
+    },
+    {
+      "path": "skybox/Sky 38/dn.png",
+      "bytes": 36137,
+      "sha256": "f35ad9204c05a699f7dc1c5e480c6ad20cf1af48e84dff43b6fef2af352a7113"
+    },
+    {
+      "path": "skybox/Sky 38/ft.png",
+      "bytes": 191699,
+      "sha256": "7d474b425a7ec2b4229c8cea880fc4f8b31ac2f08a3f0092e6871472031e0a65"
+    },
+    {
+      "path": "skybox/Sky 38/lf.png",
+      "bytes": 175292,
+      "sha256": "ba008db29073a7f7300831cc854f7585a11ebab090532d72f5d904a0b418a934"
+    },
+    {
+      "path": "skybox/Sky 38/rt.png",
+      "bytes": 160274,
+      "sha256": "be631c739c808b3034b3bf8bb14075ec2cc8e3e3b1039941b396c1244faaaefc"
+    },
+    {
+      "path": "skybox/Sky 38/up.png",
+      "bytes": 164175,
+      "sha256": "ddd5734e766a3ce0cf3dcf8e32cae5032515ebe211e48e0c1d9d4affd1076f09"
+    },
+    {
+      "path": "skybox/Sky 47/bk.png",
+      "bytes": 185055,
+      "sha256": "1ae89ac984ad49560803f623699f12de2fe5521613793baf86d68ee455237f92"
+    },
+    {
+      "path": "skybox/Sky 47/dn.png",
+      "bytes": 74788,
+      "sha256": "90c82fb2eab55a371b8a1daddc631e58bfbd047ffae080e7cb8087bdcb14095b"
+    },
+    {
+      "path": "skybox/Sky 47/ft.png",
+      "bytes": 202205,
+      "sha256": "9f792588f681937dfb737cee969ab79580d40b42c138eee89ca1960dc57a314a"
+    },
+    {
+      "path": "skybox/Sky 47/lf.png",
+      "bytes": 220034,
+      "sha256": "7ec5efc702c84df26f9ec0f0eb5b219dfb6b85be12b257a70ca847a5c40c8097"
+    },
+    {
+      "path": "skybox/Sky 47/rt.png",
+      "bytes": 203744,
+      "sha256": "f76a205d6906a8edf1824fc00cf10ae3e8f7267df4d98e0f1655ce80d6e1f040"
+    },
+    {
+      "path": "skybox/Sky 47/up.png",
+      "bytes": 150290,
+      "sha256": "e3d1e42e9d67e0f7b255b71c6f9f03e23bdcd9d193f758690c623f30f413efe8"
+    },
+    {
+      "path": "skybox/Space Blue/bk.png",
+      "bytes": 271290,
+      "sha256": "b3d34b24dd76bf5490cd789a0aeee1b9b236350af964393ab70de5de84970e28"
+    },
+    {
+      "path": "skybox/Space Blue/dn.png",
+      "bytes": 252131,
+      "sha256": "23f9c3303e075b7beb9ce8fa018b4ec4da17a537bb749321b4316f3b9592540a"
+    },
+    {
+      "path": "skybox/Space Blue/ft.png",
+      "bytes": 290140,
+      "sha256": "abb765b9db7a843ed16636a9b461d9d47d29f5b0863c1fcab7d84eea21a6e4d5"
+    },
+    {
+      "path": "skybox/Space Blue/lf.png",
+      "bytes": 316554,
+      "sha256": "b29ee81873ddb6b4ad7c4fb49a18df56d752bda3c5d38fcd26add2d4c956bf45"
+    },
+    {
+      "path": "skybox/Space Blue/rt.png",
+      "bytes": 287141,
+      "sha256": "9f424561b24cef7323640029afc53374d4e3c0e930c34539412b73e0f94fe658"
+    },
+    {
+      "path": "skybox/Space Blue/up.png",
+      "bytes": 254555,
+      "sha256": "6bc4f1c97e9d9236ceb6a4df81bb99f44f3e199f2907a584a6343785ee6a0509"
+    },
+    {
+      "path": "skybox/Spooky/bk.png",
+      "bytes": 143813,
+      "sha256": "908791f0d39755c18b6ad559a8a01aa4da1e50dacd1bda2ef50886b775e6177f"
+    },
+    {
+      "path": "skybox/Spooky/dn.png",
+      "bytes": 22436,
+      "sha256": "7ff59ad3226b09a81dc44ebcf751818d6d27ba29807ca4ce48b6e44c5c2f7c2f"
+    },
+    {
+      "path": "skybox/Spooky/ft.png",
+      "bytes": 149285,
+      "sha256": "aa0b8bf9c4c4a22358010f868496656ca8f7ea448976097c6a7fda28a5d2e74c"
+    },
+    {
+      "path": "skybox/Spooky/lf.png",
+      "bytes": 131230,
+      "sha256": "fce2dad510f5d3b06fe2aa5e3cea6b2d6e99d7feb41d7a74a81fef1c80a244db"
+    },
+    {
+      "path": "skybox/Spooky/rt.png",
+      "bytes": 120627,
+      "sha256": "d61e95bfbee35e03589979abdfc3345f750fb2e9dfa27e088648d8d8c5c60851"
+    },
+    {
+      "path": "skybox/Spooky/up.png",
+      "bytes": 305439,
+      "sha256": "943282e1d07dc0908840fe408aae1cab2ccaa34e04bdaeef1b25f933489d6109"
+    },
+    {
+      "path": "skybox/Sunny Sky/bk.png",
+      "bytes": 199431,
+      "sha256": "be6e648d9d4728270da61a3fb60ec559e572417ef95a81e69fdaea4e95ede516"
+    },
+    {
+      "path": "skybox/Sunny Sky/dn.png",
+      "bytes": 106014,
+      "sha256": "2698411521155e2833033ddcc58aca5ab94b6d58866a3a0a2d293f38dcbf4bb7"
+    },
+    {
+      "path": "skybox/Sunny Sky/ft.png",
+      "bytes": 200329,
+      "sha256": "83f5f608da5898ea5a61f11980b7d0b2ecb0ec4ac7b24622642f9ecad178ed30"
+    },
+    {
+      "path": "skybox/Sunny Sky/lf.png",
+      "bytes": 167303,
+      "sha256": "76c3b8ca5ff31f63f9f3126e309208030105ebe1f28afc5a00b0a98db200a029"
+    },
+    {
+      "path": "skybox/Sunny Sky/rt.png",
+      "bytes": 211230,
+      "sha256": "557835f16e8e7866ca02176c483543e47ea412650fea2e5c8b806e3526020203"
+    },
+    {
+      "path": "skybox/Sunny Sky/up.png",
+      "bytes": 135587,
+      "sha256": "d3fb94eb5e48facb561dad710fabe5434ce9c8b9084397f23e85950f981cac4d"
+    },
+    {
+      "path": "skybox/Sunset Glow/bk.png",
+      "bytes": 233388,
+      "sha256": "6dc2cf2c0d3f3bee83516633b10a84cec620541772f881f83cff1098af64a9d9"
+    },
+    {
+      "path": "skybox/Sunset Glow/dn.png",
+      "bytes": 163462,
+      "sha256": "ef60d8e3aaee4725f7dcd02109b315089d791ea8395fa4968b035e0d5ed9f01a"
+    },
+    {
+      "path": "skybox/Sunset Glow/ft.png",
+      "bytes": 231452,
+      "sha256": "2f177db0fe9507c2b3c9c8d464d7ca8b1acbdba5348683746e722cbbd85553f5"
+    },
+    {
+      "path": "skybox/Sunset Glow/lf.png",
+      "bytes": 242422,
+      "sha256": "bbba651dbd0b3f11cfdd9771a861c9ea62d3b1035a34e4df093df11924bc3224"
+    },
+    {
+      "path": "skybox/Sunset Glow/rt.png",
+      "bytes": 280406,
+      "sha256": "b13a86bfb46d6e51d6d499c02e57ac1dc8bb58e5e6141c45834299dce597a157"
+    },
+    {
+      "path": "skybox/Sunset Glow/up.png",
+      "bytes": 197904,
+      "sha256": "ed47075ef41e45d004c50d4961922e5ce7dadfa7d7dbe64ebe82ed115e5d7abf"
+    },
+    {
+      "path": "skybox/Universe/bk.png",
+      "bytes": 183786,
+      "sha256": "4484beeec0b22da9227a372bd93a7ef2972b048932a9b0084eb74c60cb2b804c"
+    },
+    {
+      "path": "skybox/Universe/dn.png",
+      "bytes": 26244,
+      "sha256": "5880a95dce25705aa950cb8c7a016bdabd8d5c87ae9b0af3e1e5b7fcddeb17e6"
+    },
+    {
+      "path": "skybox/Universe/ft.png",
+      "bytes": 219933,
+      "sha256": "f7e186f4999797339b0e19a02e7c1f984378e63d6e4f65d2d9bd61460d0958df"
+    },
+    {
+      "path": "skybox/Universe/lf.png",
+      "bytes": 205128,
+      "sha256": "a9455f3425670eb43d6c19302ba91ada09b55afe77d15b6628f6f288700d39c8"
+    },
+    {
+      "path": "skybox/Universe/rt.png",
+      "bytes": 173584,
+      "sha256": "9cd89aa76c60cd4eb7253f0ebaf2c785aec3e3266d222fc776630f8386ae5bc5"
+    },
+    {
+      "path": "skybox/Universe/up.png",
+      "bytes": 216296,
+      "sha256": "f54ce5b06a78408e4092a85fdd501db4d1e29672a520d16aa8a874d34c427da4"
+    },
+    {
+      "path": "skybox/Universe Space/bk.png",
+      "bytes": 183786,
+      "sha256": "4484beeec0b22da9227a372bd93a7ef2972b048932a9b0084eb74c60cb2b804c"
+    },
+    {
+      "path": "skybox/Universe Space/dn.png",
+      "bytes": 26244,
+      "sha256": "5880a95dce25705aa950cb8c7a016bdabd8d5c87ae9b0af3e1e5b7fcddeb17e6"
+    },
+    {
+      "path": "skybox/Universe Space/ft.png",
+      "bytes": 219933,
+      "sha256": "f7e186f4999797339b0e19a02e7c1f984378e63d6e4f65d2d9bd61460d0958df"
+    },
+    {
+      "path": "skybox/Universe Space/lf.png",
+      "bytes": 205128,
+      "sha256": "a9455f3425670eb43d6c19302ba91ada09b55afe77d15b6628f6f288700d39c8"
+    },
+    {
+      "path": "skybox/Universe Space/rt.png",
+      "bytes": 173584,
+      "sha256": "9cd89aa76c60cd4eb7253f0ebaf2c785aec3e3266d222fc776630f8386ae5bc5"
+    },
+    {
+      "path": "skybox/Universe Space/up.png",
+      "bytes": 216296,
+      "sha256": "f54ce5b06a78408e4092a85fdd501db4d1e29672a520d16aa8a874d34c427da4"
+    },
+    {
+      "path": "skybox/Utter East/bk.png",
+      "bytes": 106996,
+      "sha256": "70999478f82d83184fee28246364f205d4811f93b3c763675717c1d21f9eb5e3"
+    },
+    {
+      "path": "skybox/Utter East/dn.png",
+      "bytes": 5985,
+      "sha256": "d0ec8c0e82baaca8e524fa58d3e5d07fd4f0d5fdfd9acf1c0ccaa93596f17684"
+    },
+    {
+      "path": "skybox/Utter East/ft.png",
+      "bytes": 140543,
+      "sha256": "3cb1b6faa3ecffa31f25aadc50e81d23d8ea1d0219eb39d61fc09007bd8e5277"
+    },
+    {
+      "path": "skybox/Utter East/lf.png",
+      "bytes": 82173,
+      "sha256": "ea9b30d8f447e3af478fb02453afb0cfd47927e10e3e74176da9374b19f10860"
+    },
+    {
+      "path": "skybox/Utter East/rt.png",
+      "bytes": 142405,
+      "sha256": "9ae47fa9c7a56fe2a5196d4a7a2a66277127b78fae3bc41b0dcc795c28495ce3"
+    },
+    {
+      "path": "skybox/Utter East/up.png",
+      "bytes": 170968,
+      "sha256": "14f02c7ba809e9ed957ea533fc892d68bbe3b11ab51b9d4d09898eb7b8418cf6"
+    },
+    {
+      "path": "skybox/Vibrant Blue Skies/bk.png",
+      "bytes": 169032,
+      "sha256": "c82b0856ff699ab26e4d9760d60b4578ddc0d4034e1ad41d9482077bff5b926a"
+    },
+    {
+      "path": "skybox/Vibrant Blue Skies/dn.png",
+      "bytes": 1760,
+      "sha256": "e967f3a74cd455205c59dea1ce272cd50a82fee4eea27739f787d740571a98c8"
+    },
+    {
+      "path": "skybox/Vibrant Blue Skies/ft.png",
+      "bytes": 173418,
+      "sha256": "142782fa627099a4cd11099e6bd837824d66e8ee6dba0e8a36287c9c5d7bb3d7"
+    },
+    {
+      "path": "skybox/Vibrant Blue Skies/lf.png",
+      "bytes": 153690,
+      "sha256": "f971daa1ed6d77eb62a9229002864beb2ad9af3b2138ffd116528e27e8ef7a1b"
+    },
+    {
+      "path": "skybox/Vibrant Blue Skies/rt.png",
+      "bytes": 155545,
+      "sha256": "11321927372ffe6bd57727c2304687845753fa52fb1ca246b34c5dbd62ed6426"
+    },
+    {
+      "path": "skybox/Vibrant Blue Skies/up.png",
+      "bytes": 44359,
+      "sha256": "82e26203f361f3be1d3c5527dc5b973c2a0268ad9397bd25faad9e1518384245"
+    },
+    {
+      "path": "skybox/Whomp Fortress/bk.png",
+      "bytes": 127005,
+      "sha256": "a72ddaa955df18e073e126268314dec4a662a413e6340fbe25e19fd940ca3a4e"
+    },
+    {
+      "path": "skybox/Whomp Fortress/dn.png",
+      "bytes": 253779,
+      "sha256": "29b89586c0292018740552e1a299234f5512a88e6b47643b63824dab15d49502"
+    },
+    {
+      "path": "skybox/Whomp Fortress/ft.png",
+      "bytes": 132413,
+      "sha256": "6995da0a293851c4af2c4b93cfbe13cc4897a99a870e82fcd330d7d845027ad5"
+    },
+    {
+      "path": "skybox/Whomp Fortress/lf.png",
+      "bytes": 146974,
+      "sha256": "abe8bbd20a6a5fe3eb6e3842272787fb905eac518a0cbf89755151ee6fc75077"
+    },
+    {
+      "path": "skybox/Whomp Fortress/rt.png",
+      "bytes": 119238,
+      "sha256": "42ee88b795b209a5bd7356e3f56e1100883f5ac66e2ef0e63396ca0c4fe87d7c"
+    },
+    {
+      "path": "skybox/Whomp Fortress/up.png",
+      "bytes": 101939,
+      "sha256": "a2bef05b9163735c42a4490cb6a31fd814897c64f6c87804cd7f87be6fa677e3"
+    },
+    {
+      "path": "skybox/Winterness/bk.png",
+      "bytes": 150655,
+      "sha256": "b4c171a3c3d676878383300e7f9e50a4b361e235f0f76fa9613dcde380e25c94"
+    },
+    {
+      "path": "skybox/Winterness/dn.png",
+      "bytes": 843,
+      "sha256": "1707efe457307d0a5e2f5a1ec1cff55b2a44286f3c4d8dda32bf394be8963b8b"
+    },
+    {
+      "path": "skybox/Winterness/ft.png",
+      "bytes": 148136,
+      "sha256": "c77c681172f4ba4983f162872e8eda0a9273060b00d8e2ba90a0e1dadf097779"
+    },
+    {
+      "path": "skybox/Winterness/lf.png",
+      "bytes": 155570,
+      "sha256": "b2f72e88ef13cba10c82ce17facb8b7c1e6aa76c65fe16ba10953045ff3343d7"
+    },
+    {
+      "path": "skybox/Winterness/rt.png",
+      "bytes": 150110,
+      "sha256": "9d7a869254a330121e6a7187ec0922ea6e01731b5d58994fc8966837a9cf5caf"
+    },
+    {
+      "path": "skybox/Winterness/up.png",
+      "bytes": 217125,
+      "sha256": "bdb576aeef6fe865b53936de1922921700947dddf8b1ee15da9c2f37d7da1384"
+    },
+    {
+      "path": "skybox/Zen End/bk.png",
+      "bytes": 57561,
+      "sha256": "21c3129390e0ac7651bf0dfa38dcedabec2e9c0980b381dae1ee5135ff07a49c"
+    },
+    {
+      "path": "skybox/Zen End/dn.png",
+      "bytes": 34319,
+      "sha256": "b255eb5bfd9a9ca06ad92e8c02663bfd6bc5f23626e79ae1efafb1b719763310"
+    },
+    {
+      "path": "skybox/Zen End/ft.png",
+      "bytes": 47737,
+      "sha256": "f96e6ee68e9d91c0283aadf1ac828545c8435448ac8723b844c1081b49e32be5"
+    },
+    {
+      "path": "skybox/Zen End/lf.png",
+      "bytes": 76359,
+      "sha256": "bb0e6dff68e9461923a9e4d9a7bb52c46cf7775a7dca094e27b0bbd15d729088"
+    },
+    {
+      "path": "skybox/Zen End/rt.png",
+      "bytes": 53139,
+      "sha256": "6c7ab9f116c806112904e98dda6046e658b18e817de457dc031ec8d980dcc76b"
+    },
+    {
+      "path": "skybox/Zen End/up.png",
+      "bytes": 52299,
+      "sha256": "6f30b90cdc40d07c1254c561fa17c06441503981b491f9538c0336ddd0b71b04"
+    },
+    {
+      "path": "paimon/paimon_0000.png",
+      "bytes": 33175,
+      "sha256": "f7bf9ddd449f14ddeb244960815aa9b7b247ccf1e75952602ccbb20f4303b296"
+    },
+    {
+      "path": "paimon/paimon_0001.png",
+      "bytes": 33126,
+      "sha256": "2d8a0448eb5f8c53d28be7d70908eb8895994b5ee83bd8ddfc07b380cce0a40a"
+    },
+    {
+      "path": "paimon/paimon_0002.png",
+      "bytes": 33368,
+      "sha256": "67c016220bc2c5cbca1a6aef09e6c7bfcb6f0d22cf2d3b996ba177461f59b1d1"
+    },
+    {
+      "path": "paimon/paimon_0003.png",
+      "bytes": 33220,
+      "sha256": "aa1e8e59383fd51df37bbade40cbe41541475b93baf265fc4f11feac488ed7b7"
+    },
+    {
+      "path": "paimon/paimon_0004.png",
+      "bytes": 33388,
+      "sha256": "19d66d5140b713916f71cd31850a421911c2f9ace4e6a2e04c8b65ea45583992"
+    },
+    {
+      "path": "paimon/paimon_0005.png",
+      "bytes": 33457,
+      "sha256": "c3fd5de4b8e9fe6c0d1d58b9f674588aa94b681b36d130efc2329161cabfb2db"
+    },
+    {
+      "path": "paimon/paimon_0006.png",
+      "bytes": 33552,
+      "sha256": "4e042713d68f008aefc37d031f7282c74bd0a9f03b703b99a5570628016d40c3"
+    },
+    {
+      "path": "paimon/paimon_0007.png",
+      "bytes": 33771,
+      "sha256": "4202a730c01cb22f7e1fb5399deb35ca1f9337d65162cea397cf7315f6115132"
+    },
+    {
+      "path": "paimon/paimon_0008.png",
+      "bytes": 33796,
+      "sha256": "30bdda6e4f6dc44c067f0f4e3016097794719657af529a08f5f40621a3f5988d"
+    },
+    {
+      "path": "paimon/paimon_0009.png",
+      "bytes": 34074,
+      "sha256": "60bf9acdd18497cb910af9ed4f759983b46edd1fb486bf045153c91474f7bcca"
+    },
+    {
+      "path": "paimon/paimon_0010.png",
+      "bytes": 34945,
+      "sha256": "d321093f924f732573b6fafb7f6d93d39aca32f02bd66d9ddaca74da659bad0b"
+    },
+    {
+      "path": "paimon/paimon_0011.png",
+      "bytes": 35028,
+      "sha256": "077cb0f9081e1b890aa26c1d788f5d7ccd91d27104c621e630abc95fcdc5aed4"
+    },
+    {
+      "path": "paimon/paimon_0012.png",
+      "bytes": 34832,
+      "sha256": "12bbf3fa215e3094cc622a2ca4e008194ac4157a1a8e946fad640e130b1f131e"
+    },
+    {
+      "path": "paimon/paimon_0013.png",
+      "bytes": 34694,
+      "sha256": "bc532d292a69ea2805bc0c72c1ce64f14728936c5829f77273e54155d0867e1a"
+    },
+    {
+      "path": "paimon/paimon_0014.png",
+      "bytes": 34812,
+      "sha256": "01ea979ce0fd16ba8d7e828124c9ee38f07d55b52cf3373623ca45fa3fae0ddd"
+    },
+    {
+      "path": "paimon/paimon_0015.png",
+      "bytes": 34698,
+      "sha256": "61ef934a675c3373fec6d58a36fe253c75929c417a70afac22b6b4aaacf30871"
+    },
+    {
+      "path": "paimon/paimon_0016.png",
+      "bytes": 34200,
+      "sha256": "d39ac64c2d86ab2ffc4854f3901631cd43e93844c50c4157befd38ab34d5a50a"
+    },
+    {
+      "path": "paimon/paimon_0017.png",
+      "bytes": 33696,
+      "sha256": "7f6f69224f83fafd08e2be5415bfa7317d42b1cf6ab4cbd966500b722df95348"
+    },
+    {
+      "path": "paimon/paimon_0018.png",
+      "bytes": 33401,
+      "sha256": "488738997368381988910af15323008ffc2d6a0684c1d35c35397d9cea1aae7c"
+    },
+    {
+      "path": "paimon/paimon_0019.png",
+      "bytes": 33164,
+      "sha256": "50b8a0b598d0f5e7ff1d145a349d4f59aec5611588a5964efc558b989f222c58"
+    },
+    {
+      "path": "paimon/paimon_0020.png",
+      "bytes": 32836,
+      "sha256": "c920c57bfe3f7980572baa4d103fe48276a1f5c6b10aefaeea9c97b820dc7af2"
+    },
+    {
+      "path": "paimon/paimon_0021.png",
+      "bytes": 32244,
+      "sha256": "1fe4d56505e1c893aaed184d3bb7b1db0ddd940f4b9ccee283d657f938841f2c"
+    },
+    {
+      "path": "paimon/paimon_0022.png",
+      "bytes": 31934,
+      "sha256": "76df66aa23ef590b09d537fcb20f7f89d542a452360cbf0317e2ef75e864ea7e"
+    },
+    {
+      "path": "paimon/paimon_0023.png",
+      "bytes": 31353,
+      "sha256": "1d649fbcf8129f18c98009ba35c28a6de07358f0d07cc664b1f62a76efa186c1"
+    },
+    {
+      "path": "paimon/paimon_0024.png",
+      "bytes": 30969,
+      "sha256": "ad90a8b5f86a7dd988bc5b0a8c13c6a94cb1951df722e0a4ee8da0a7f3fe598a"
+    },
+    {
+      "path": "paimon/paimon_0025.png",
+      "bytes": 30546,
+      "sha256": "ec3449bb68f97676bd5cb36bfac78f66c0a54821e2ac75016820e279db1ad779"
+    },
+    {
+      "path": "paimon/paimon_0026.png",
+      "bytes": 30393,
+      "sha256": "c61ba489ea0018e90d2eee350001ce90242e40323aefb11148632f640953b50c"
+    },
+    {
+      "path": "paimon/paimon_0027.png",
+      "bytes": 30126,
+      "sha256": "e565d7e1957aee140f92355f5b277fe42fd84c32c08937182452974512db58cd"
+    },
+    {
+      "path": "paimon/paimon_0028.png",
+      "bytes": 29763,
+      "sha256": "9cec51f0d232c010815c47f435bfb5c349973a0aad7d36d85a197cdccb2c903b"
+    },
+    {
+      "path": "paimon/paimon_0029.png",
+      "bytes": 29502,
+      "sha256": "7211312b61e7af690e60b75b06700068ab26ed28353d5ca67368adba3ba5fc71"
+    },
+    {
+      "path": "paimon/paimon_0030.png",
+      "bytes": 29358,
+      "sha256": "38bbf45ebc917fbb60d4517b160d5545ea89718139745db3a6016900110ca0c9"
+    },
+    {
+      "path": "paimon/paimon_0031.png",
+      "bytes": 29549,
+      "sha256": "bc580fe522642e31b07973d63bcab7fc38a67287348f551f0e9961b8a13af4df"
+    },
+    {
+      "path": "paimon/paimon_0032.png",
+      "bytes": 29776,
+      "sha256": "31b6bead61fb9f60343a097045ef951f00e976850c9ecaf4287f4f72710b5cc4"
+    },
+    {
+      "path": "paimon/paimon_0033.png",
+      "bytes": 29695,
+      "sha256": "112bc8d2e35a6b98d89911459b3d0d21afd36fc82c6c93f48077cbeb58278d0e"
+    },
+    {
+      "path": "paimon/paimon_0034.png",
+      "bytes": 29849,
+      "sha256": "050aebd6a81be7a50a104693a5bb47043bd3f62ff4147e5ee1b6cfb425405ef5"
+    },
+    {
+      "path": "paimon/paimon_0035.png",
+      "bytes": 30061,
+      "sha256": "2d59d14ba7d53e95d73350d82be29cb6c685c131c0c331f0f83c40c9cb81d75b"
+    },
+    {
+      "path": "paimon/paimon_0036.png",
+      "bytes": 30437,
+      "sha256": "fe6d16cdb0f23b2988a6b5c9332cae2cba2b9e8ca6a1e8f9cdbed5193e818002"
+    },
+    {
+      "path": "paimon/paimon_0037.png",
+      "bytes": 30607,
+      "sha256": "d06dfd8d68f3ac36904d04864ed767a20b5623d141e7bcec3bc9bb70c94e937c"
+    },
+    {
+      "path": "paimon/paimon_0038.png",
+      "bytes": 30925,
+      "sha256": "c5f38fc6dec6e9301282741fa74973e91dd95831b8f543bd1faaa409d12ea56f"
+    },
+    {
+      "path": "paimon/paimon_0039.png",
+      "bytes": 31116,
+      "sha256": "1f192ae2b764ad22c22147774645876544d8f74dc9ba73d52b06b1439ffd4ea0"
+    },
+    {
+      "path": "paimon/paimon_0040.png",
+      "bytes": 31564,
+      "sha256": "29868752b396b60eb07801dd187c5a24e39d4351534c4a842643cf03cb8930dc"
+    },
+    {
+      "path": "paimon/paimon_0041.png",
+      "bytes": 31824,
+      "sha256": "07558d26d759960bd0ba381ce226c52206ea8e7546c5708a732bf2bb56d5cebe"
+    },
+    {
+      "path": "paimon/paimon_0042.png",
+      "bytes": 32337,
+      "sha256": "f6c0555dc1795f7deea3c6d068a8359c50b918167f41fb9b1c6c2f79d290924f"
+    },
+    {
+      "path": "paimon/paimon_0043.png",
+      "bytes": 32254,
+      "sha256": "e060cbdfe6a5039b1ffbb1b116a001a088cff76ce7a3fe730c2c075497ce57db"
+    },
+    {
+      "path": "paimon/paimon_0044.png",
+      "bytes": 32592,
+      "sha256": "62168144ba1a391e7a1a1bdf35a25c797357f8f49d47a2552b722b1bf51d62a4"
+    },
+    {
+      "path": "paimon/paimon_0045.png",
+      "bytes": 32740,
+      "sha256": "f52d9f7c1dfaee7b934b2f7092f973db2d2f297548bc0df12aca806a9c43ef5c"
+    },
+    {
+      "path": "paimon/paimon_0046.png",
+      "bytes": 32947,
+      "sha256": "0a53a07a00236a4970af5ef834bf9a1201db1fc6ca4383dc0689f4433a1a1381"
+    },
+    {
+      "path": "paimon/paimon_0047.png",
+      "bytes": 33052,
+      "sha256": "521713ea767ae4e26bf1408ba47fe3d210744a48802fd5c9f0997207a78b6d7d"
+    },
+    {
+      "path": "paimon/paimon_0048.png",
+      "bytes": 33360,
+      "sha256": "f8ea267d92143aad745551645f0287d0ee7ef9808606cacf007859b5ff6ced72"
+    },
+    {
+      "path": "paimon/paimon_0049.png",
+      "bytes": 33200,
+      "sha256": "98aa5250f37209f4b033a4a3e1efce48799f6d66fa9174435c88647dddfe22f7"
+    },
+    {
+      "path": "paimon/paimon_0050.png",
+      "bytes": 33028,
+      "sha256": "93a7848ebe4f8add78196858fae2e975b413d297dc0643081bcc82fd82e4c359"
+    },
+    {
+      "path": "paimon/paimon_0051.png",
+      "bytes": 33042,
+      "sha256": "cf8bea341b3698a7881f8a54bafcfd27b8ea573b675c83549cb9077008e8516a"
+    },
+    {
+      "path": "paimon/paimon_0052.png",
+      "bytes": 33149,
+      "sha256": "08f00e3028bd55eb86220f819989e7c62f735d09fe8919252c7315707e7eeaba"
+    },
+    {
+      "path": "effects/vingette.png",
+      "bytes": 35322,
+      "sha256": "52b847a08ffd8a085a4b9058d917269eff5b5464c141bccf8763b18ab3867bee"
+    },
+    {
+      "path": "hitsounds/duck.wav",
+      "bytes": 144788,
+      "sha256": "28d868f55857c89c2ad9b2f715ad89fa33d02d65b7813228ac6b7f1e1a9ffff2"
+    },
+    {
+      "path": "hitsounds/neverlose.wav",
+      "bytes": 152168,
+      "sha256": "6115f903005dc34586981af698043fb67b3b33553daf95cdb502b563413e9f83"
+    },
+    {
+      "path": "hitsounds/skeet.wav",
+      "bytes": 41620,
+      "sha256": "6132b9a29a2de0edccebe27223d23e8a8264faf8c07f62b35b3e1eae0dc952b4"
+    },
+    {
+      "path": "hitsounds/bell.wav",
+      "bytes": 42154,
+      "sha256": "ea72b142bb7e6ecae22b9312ac8abd8b0ff0017ca2f20ffe61328805ae15eb73"
+    },
+    {
+      "path": "hitsounds/bubble.wav",
+      "bytes": 32812,
+      "sha256": "c6b25c60f50838761839970a66f7bf2766659f953aa7759160ce558eb6cd7b5a"
+    },
+    {
+      "path": "hitsounds/cod.wav",
+      "bytes": 11752,
+      "sha256": "fe8bbb31c7f63ea2ae3de137ef4b190628c63735e6f09662c0856b118ec4bb07"
+    },
+    {
+      "path": "hitsounds/dsr-1.wav",
+      "bytes": 136348,
+      "sha256": "46637db5a26b03a9b6e839f152884c1e3615d101a7a3e590b7f3efbdae30f3ea"
+    },
+    {
+      "path": "hitsounds/punchy.wav",
+      "bytes": 131654,
+      "sha256": "714ee3d00967b702e95bc208c74989cb7eaf2af6c2087be7385c2c045cabf91f"
+    },
+    {
+      "path": "hitsounds/rust_headshot.wav",
+      "bytes": 68340,
+      "sha256": "fa4f8fa5ea0700e28f5a06be182664bf1f7fa36b7f171b9ca292bbdde22daeff"
+    },
+    {
+      "path": "hitsounds/minecraft_bow.wav",
+      "bytes": 43070,
+      "sha256": "67e0adf6c46ea981eeb4d28ac83916244e765f71601807fb7f1500d81b4684ea"
+    },
+    {
+      "path": "hitsounds/fatality.wav",
+      "bytes": 80538,
+      "sha256": "b77f78a38c8439cc6dfe9adb481cee905c3f0f89a79a675319157d9e8885e2cb"
+    },
+    {
+      "path": "hitsounds/primordial.wav",
+      "bytes": 8910,
+      "sha256": "8fd4e23da4c5e7225d0b786bc615a193ec7eec4f9364175420b20c11ec67fa94"
+    },
+    {
+      "path": "hitsounds/Metal.wav",
+      "bytes": 260036,
+      "sha256": "ba43730edc1acca6c324d63cdbd070d25192d1f98a61f5af7d42e1d9cadf9492"
+    },
+    {
+      "path": "hitsounds/bepis.wav",
+      "bytes": 132378,
+      "sha256": "fbdeb9e7f96e8d4cf652e1da88dafacc4802894833c3400cb828df81c66c0f23"
+    },
+    {
+      "path": "hitsounds/archive.wav",
+      "bytes": 150086,
+      "sha256": "05fd1a87272d430ed52566a9ac7121b6812659d795e5e41e37f552764649f5ad"
+    },
+    {
+      "path": "hitsounds/basshit.wav",
+      "bytes": 99398,
+      "sha256": "dc02a953a776f7e5b9d13dcc9aacf8133eba901db752100c6e49c14916d86d21"
+    },
+    {
+      "path": "hitsounds/Beep1.wav",
+      "bytes": 60866,
+      "sha256": "eb8f0ce1992327f2d66bfd1ed7aa64fe450c0e89bdd94929d344ae3b84a4a30d"
+    },
+    {
+      "path": "hitsounds/burp.wav",
+      "bytes": 108610,
+      "sha256": "fad76701005e7a0a531705f5cb2dee8caf0ada4aca72c03f9aaba17438ceecbb"
+    },
+    {
+      "path": "hitsounds/coinmaster.wav",
+      "bytes": 76354,
+      "sha256": "6af542f338c7bb8a2b5d5573e367e7faa9540d10eb8498f0dc73de6cd7f57484"
+    },
+    {
+      "path": "hitsounds/copperbell.wav",
+      "bytes": 246862,
+      "sha256": "5eecd3ad4eceda65c174816674a4093d452932156cb47346ddb9cdbcffef48e5"
+    },
+    {
+      "path": "hitsounds/cowbell.wav",
+      "bytes": 115726,
+      "sha256": "0d634155c0dcbe076509098c3a26f22a5ab4401158a800795413fbb08e23b33b"
+    },
+    {
+      "path": "hitsounds/crowbar.wav",
+      "bytes": 140870,
+      "sha256": "07b0585af69e39b57d7398a2a5492aeb82ac1101ba1b6e53ab2b82fde210f941"
+    },
+    {
+      "path": "hitsounds/dog.wav",
+      "bytes": 71742,
+      "sha256": "c41574b9592e28248c5d270c369d03ad35f369abafd976c1557d596def72af30"
+    },
+    {
+      "path": "hitsounds/doorsmasher.wav",
+      "bytes": 186958,
+      "sha256": "ac06d7039d2831cc0b5ca8fa71a369c1704fa869911278f2742a1dcb7fd822ce"
+    },
+    {
+      "path": "hitsounds/fire.wav",
+      "bytes": 252098,
+      "sha256": "0f9c25d2a81eefbf725e71dc76a1a379edfe4efed87f563927aea4050f9c666c"
+    },
+    {
+      "path": "hitsounds/huhh.wav",
+      "bytes": 94786,
+      "sha256": "1adb92654e4cd8e8866e9941602b4cd4a17efa7c69dcb973b9564c9a4b566c51"
+    },
+    {
+      "path": "hitsounds/klatsch.wav",
+      "bytes": 80966,
+      "sha256": "bf4ccd413e77600451fee973599c2cf07e9fd8972104484256d1964c5001e52c"
+    },
+    {
+      "path": "hitsounds/mariowoahh.wav",
+      "bytes": 196174,
+      "sha256": "3d133ed38be0c2840a44f7ac75376ceee35c488699ede907660263f22fe9d187"
+    },
+    {
+      "path": "hitsounds/mcbow.wav",
+      "bytes": 68098,
+      "sha256": "cad86bab34b5dc42d63e703d71bcba15dd412287a89132a6549ff6c169f9c0b0"
+    },
+    {
+      "path": "hitsounds/mgs.wav",
+      "bytes": 131646,
+      "sha256": "68ae4686c8e1f27d83667497dc8c8fcc460e332d1c0e70c4790e37b592f7802d"
+    },
+    {
+      "path": "hitsounds/msfrs.wav",
+      "bytes": 41278,
+      "sha256": "a7b6cf74c0827c6c69376fa6235067656e928f784c35b40fd9a3f14b24948664"
+    },
+    {
+      "path": "hitsounds/my_name_jeff.wav",
+      "bytes": 260804,
+      "sha256": "a9a817bbcede99539c3aabf83163f57f9961b0b67ca99d231f971388090ba009"
+    },
+    {
+      "path": "hitsounds/plasmablaster.wav",
+      "bytes": 210002,
+      "sha256": "7052cafd82228aa7d87c7997bae9fab5adcdcaca35bcbdcb16d1c847f5f3408a"
+    },
+    {
+      "path": "hitsounds/poolplayer.wav",
+      "bytes": 90190,
+      "sha256": "e73ffaa8658ee39ab7444cdcfd2a025b6f16fd1d924407860728ded23a07d3be"
+    },
+    {
+      "path": "hitsounds/poordrum.wav",
+      "bytes": 67146,
+      "sha256": "f5b93f3332c247e8997936c0bf62642cd21cfe991b5003990f7ad1b7760d85cc"
+    },
+    {
+      "path": "hitsounds/Punch.wav",
+      "bytes": 145760,
+      "sha256": "e35c0a68e4eecfb29580d3f5a5ea2d41c8f156bc78735ac791611dd4584ac3d8"
+    },
+    {
+      "path": "hitsounds/quake.wav",
+      "bytes": 8492,
+      "sha256": "e28de99dedad5b531c3264fec8d13fab4660a36338c9f07a762daac9afca8b09"
+    },
+    {
+      "path": "hitsounds/reminder.wav",
+      "bytes": 131658,
+      "sha256": "347062a04eb612b7d3055d6c70bc6085186c3d80d502a396b1ea0b2834cc5f1b"
+    },
+    {
+      "path": "hitsounds/roblox.wav",
+      "bytes": 105972,
+      "sha256": "a27c2daf98efc58ceb52813ccfec16d62ef4294982139ed11de964e769f48b33"
+    },
+    {
+      "path": "hitsounds/sonic.wav",
+      "bytes": 136152,
+      "sha256": "485aec047f0b5fcfa0f08d335c0502c3d0e3845227794bb71d852e19a78c1b7e"
+    },
+    {
+      "path": "hitsounds/stapler.wav",
+      "bytes": 27724,
+      "sha256": "170d246b840032663828a5abbb299fd6d9a7c486a743894d4321df883e679425"
+    },
+    {
+      "path": "hitsounds/unreal1.wav",
+      "bytes": 12246,
+      "sha256": "bf1f9976e891335c47061d088af61f4295beb47ead795c2e484cef8a1694099d"
+    },
+    {
+      "path": "hitsounds/window_xp_error.wav",
+      "bytes": 270892,
+      "sha256": "bca0fd074f527a386abe5d747f9a47559a7ace8c2094b6edc2ad82217772037f"
+    },
+    {
+      "path": "hitsounds/zingtrio.wav",
+      "bytes": 177738,
+      "sha256": "ce482931da8b214569646cac6ec3b329ee1c975e1d471ef16839a79f902e6873"
+    },
+    {
+      "path": "hitsounds/animezing.wav",
+      "bytes": 131658,
+      "sha256": "ce285e9923ab4ff4accb8c6deae3cd8ff77564a3c01c77e0542e14d307fa56f1"
+    },
+    {
+      "path": "hitsounds/agpa1.mp3",
+      "bytes": 30544,
+      "sha256": "354a2c22af0d3e4bec8ff70a26f5884c81ab68dfa95d05f0e512ed3f46250844"
+    },
+    {
+      "path": "hitsounds/agpa2.mp3",
+      "bytes": 26782,
+      "sha256": "a73a39de180bad402abb450df7308bc002fd46d0c7f86177e70e1456a315277f"
+    },
+    {
+      "path": "hitsounds/connectpacanoff.mp3",
+      "bytes": 18328,
+      "sha256": "331f11f17523e22f74344849bdf21545af59cf30d4e87233a221eb07b01beea7"
+    },
+    {
+      "path": "hitsounds/12.wav",
+      "bytes": 27724,
+      "sha256": "170d246b840032663828a5abbb299fd6d9a7c486a743894d4321df883e679425"
+    },
+    {
+      "path": "hitsounds/4.wav",
+      "bytes": 44864,
+      "sha256": "ab8d11330a9bcbe6bc1648df9de34fc2bbfe1064334dd9bdb4856f18ffe481d6"
+    }
+  ],
+  "unavailable": [
+    {
+      "path": "skybox/Goodnight/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Goodnight/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Goodnight/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Goodnight/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Goodnight/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hades/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hades/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hades/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hades/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hades/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hades/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hazy/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hazy/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hazy/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hazy/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hazy/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Hazy/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Light Blue/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Light Blue/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Light Blue/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Light Blue/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Light Blue/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Light Blue/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Light Pink/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Light Pink/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Light Pink/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Moonlight/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Moonlight/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Moonlight/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Moonlight/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Moonlight/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Moonlight/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky 2/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky 2/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky 2/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky 2/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky 2/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Neon Sky 2/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night Sky With Moon/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night Sky With Moon/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night Sky With Moon/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night Sky With Moon/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night Sky With Moon/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Night Sky With Moon/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Northern Lights/bk.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Northern Lights/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Northern Lights/ft.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Northern Lights/lf.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Northern Lights/rt.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Northern Lights/up.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    },
+    {
+      "path": "skybox/Oblivion/dn.png",
+      "reason": "Original Litterbox URL returned HTTP 404 from GitHub runner; HTTP 403 locally"
+    }
+  ],
+  "preexisting_missing_skybox_faces": [
+    "Oblivion/bk.png",
+    "Oblivion/ft.png",
+    "Oblivion/lf.png",
+    "Oblivion/rt.png",
+    "Oblivion/up.png",
+    "Orange Sky/bk.png"
+  ]
+}
